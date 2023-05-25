@@ -20,7 +20,6 @@ public class week13_1 {
 
         sort(list);
 
-        System.out.println("Sorted list:");
         for (Number num : list) {
             System.out.print(num + " ");
         }
